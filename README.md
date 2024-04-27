@@ -34,10 +34,12 @@ def max_marks(scores):
 print(max_marks([81, 63, 74, 92, 100, 66, 50, 89, 75, 87]))
 ```
 ## Output:
-```
-i) 95
-ii) 98
-iii) 100
-```
+![image](https://github.com/gayumee/FindMaximum/assets/149037327/dd5762bd-f09e-431f-8ca2-8ddf4705628a)
+
+![image](https://github.com/gayumee/FindMaximum/assets/149037327/9b17fcbd-2b77-4e27-bc9e-3e22570f5beb)
+
+![image](https://github.com/gayumee/FindMaximum/assets/149037327/da6dafb4-1263-4b7c-b04a-41e170fe7468)
+
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
